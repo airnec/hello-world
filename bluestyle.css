@@ -1,8 +1,15 @@
 body {
-background-color: rgb(128, 219, 25);
+  text-align: center;
+  background-color: rgb(248, 246, 114);
+  font-family: 'Fira Sans';
 }
 
 h1 {
-color: navy;
-margin-left: 20px;
+  color: navy;
+  margin-left: 20px;
+  font-family: 'Oswald';
+}
+
+img {
+  border-radius: 50px;
 }
